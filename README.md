@@ -1,2 +1,1 @@
-# litsocHardik
-working
+# litsoc
